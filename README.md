@@ -19,11 +19,6 @@ Be greedy when others are fearful and be fearful when others are greedy.
     <img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,typescript,prisma,postgresql,supabase,nodejs,expressjs,mysql,tensorflow,cs,java,php,vercel,pnpm,gcp,git,github,vscode,postman&perline=7" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pnpm,gcp,git,github,vscode,postman" />
-  </a>
-</p>
 
 #
 
