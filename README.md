@@ -1,4 +1,4 @@
-[![Alt text](Banner.png)](https://pavlobondarenko.net)
+<img src="Banner.png">
 
 <p align="center">
 Be greedy when others are fearful and be fearful when others are greedy.
