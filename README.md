@@ -1,8 +1,6 @@
 <img src="Banner.png">
 
-<p align="center">
-Be greedy when others are fearful and be fearful when others are greedy.
-</p>
+
 
 <div align="center">
 
@@ -11,6 +9,10 @@ Be greedy when others are fearful and be fearful when others are greedy.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=fff)](mailto:jgordonio.work@gmail.com)
 
 </div>
+
+<p align="center">
+Be greedy when others are fearful and be fearful when others are greedy.
+</p>
 
 #
 
